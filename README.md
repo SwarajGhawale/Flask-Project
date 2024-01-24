@@ -31,7 +31,7 @@
 
 ## Features
 - Authentication (Login and Logout Page with users table (ORM) )
-![Login](./static/images/01_login_screen.png)
+01_login_screen
 - Bootstrap5 Frontend Pages with responsive forms and datatables
 ![Datatable](./static/images/02_bs5_with_datatable.png)
 - Horitonzal Navbar with Dropdown Menus
